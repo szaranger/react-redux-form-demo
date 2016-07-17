@@ -1,0 +1,19 @@
+label {
+    width: 5rem;
+    display: inline-block;
+}
+
+button {
+    padding: .5rem 1rem;
+    width: 13.2rem;
+    margin-top: .5rem;
+}
+
+form {
+    font-family: Helvetica, Arial;
+    font-size: .85rem;
+}
+
+.field {
+    margin: .4rem 0;
+}
