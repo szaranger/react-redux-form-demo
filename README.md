@@ -1,6 +1,6 @@
 # React Redux Form Demo App
 
-This project serves as either a **very simple** boilerplate to start building a Redux application with Forms in React.js.
+This project serves as either a **very simple** boilerplate to start building a *Redux* application with Forms in *React.js*.
 
 Please see the [walkthrough](http://seanamarasinghe.com/developer/react-redux-form/) for a more thorough explanation of the code.
 
@@ -8,6 +8,7 @@ Please see the [walkthrough](http://seanamarasinghe.com/developer/react-redux-fo
 
 - React
 - Redux
+- React Redux Form
 - Webpack
 - Babel
 
@@ -19,4 +20,4 @@ Please see the [walkthrough](http://seanamarasinghe.com/developer/react-redux-fo
  $ npm start
 ```
 
-When the servers are started, visit `http://localhost:3000` to see the Todo page.
+When the servers are started, visit `http://localhost:3000` to see the Login page.
